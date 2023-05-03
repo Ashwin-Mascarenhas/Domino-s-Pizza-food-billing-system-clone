@@ -1,0 +1,9 @@
+Hey there! I'm excited to share with you my latest project - a Domino's Pizza food billing system clone made entirely by me using C++! As a solo developer, I wanted to create a system that would make ordering and paying for pizza faster and more efficient.
+
+I'm proud to say that I've created a seamless and user-friendly system that allows you to generate a bill and total everything like a real billing system in few clicks.
+
+One of the things I focused on when building this system was speed and reliability. I optimized my code to ensure that orders are processed quickly and accurately. Plus, I made sure that my system can handle bills of very big orders without crashing.
+
+Despite being a small project, I made sure that my system is intuitive and user-friendly. Even those who aren't tech-savvy can use it with ease. Simply select your pizza or any of the available slides, select your quantity and confirm each step if you wanna add more or just finalize the bill. It's that easy!
+
+I'm thrilled to share my Domino's Pizza food billing system clone with you and I hope you'll give it a try. As a solo developer, I poured my heart and soul into this project as it was the first proper project that i developed and I'm confident that you'll love it as much as I do. My Domino's Pizza food billing system clone is fast, reliable, secure, and easy to use. Try it today and experience the future of fast and efficient food ordering. Thank you for your support!
